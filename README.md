@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 
 <a href="https://holopin.io/@sushil010">
-  <img src="https://holopin.me/cm293dhvv41680cmi8bdjqy5a" alt="Badge 1" />
+  <img src="https://holopin.me/cm293dhvv41680cmi8bdjqy5a" alt="Badge 2" />
 </a>
 
 
 <a href="https://holopin.io/@sushil010">
-  <img src="https://holopin.me/cm2myvbnk139740cjmjcrvhnde" alt="Badge 1" />
+  <img src="https://holopin.me/cm2myvbnk139740cjmjcrvhnde" alt="Badge 3" />
 </a>

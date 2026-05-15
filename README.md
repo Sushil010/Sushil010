@@ -17,34 +17,34 @@
 
 I'm a Computer Engineering graduate from Nepal who builds things at the intersection of **machine learning, computer vision, and data engineering**. I've shipped production-grade ETL pipelines, deployed FastAPI services, and published ML research at an international conference.
 
-Currently researching **LLM hallucination reduction** — designing a dual-layer architecture combining pre-generation filtering with post-generation verification.
+Currently researching **LLM hallucination reduction**  designing a dual-layer architecture combining pre-generation filtering with post-generation verification.
 
-- 🔬 **Published:** Real-Time Drowsiness Detection — ICT-CEEL 2023
+- 🔬 **Published:** Real-Time Drowsiness Detection  ICT-CEEL 2023
 - 🏗️ **Last role:** ETL Associate, Car Auction Data Project (Australia, Remote)
 - 🌍 **Based in:** Nepal · Open to remote work globally
 - 📫 **Reach me:** sharma.s420823@gmail.com
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🧠 Dual-Layer LLM Hallucination Reducer *(In Progress)*
+###  Dual-Layer LLM Hallucination Reducer *(In Progress)*
 > Reducing factual errors in Large Language Models via a two-stage pipeline: pre-generation filtering + post-generation verification.
 
 `PyTorch` `Transformers` `Prompt Engineering` `LLMs`
 
 ---
 
-### 😴 Real-Time Drowsiness Detection System — *Published Research*
+### Real-Time Drowsiness Detection System — *Published Research*
 > Combined facial landmark detection (Dlib) with XGBoost to monitor driver alertness using Eye Aspect Ratio and Mouth Aspect Ratio. **94% detection accuracy** in real-time conditions.
 
 `Python` `OpenCV` `XGBoost` `Dlib`
 
-📄 [Published at ICT-CEEL 2023](https://github.com/Sushil010/Driver-Drowsiness-Detection-Using-Facial-Landmarks-)
+ [Published at ICT-CEEL 2023](https://github.com/Sushil010/Driver-Drowsiness-Detection-Using-Facial-Landmarks-)
 
 ---
 
-### 🛡️ ML-Composed DDoS Detector
+### ML-Composed DDoS Detector
 > Random Forest classifier with **89% accuracy** detecting distributed denial-of-service attacks. Includes an interactive Three.js globe for real-time attack visualization — full-stack AI from model to interface.
 
 `Python` `Scikit-learn` `Random Forest` `Three.js`
@@ -62,8 +62,6 @@ Currently researching **LLM hallucination reduction** — designing a dual-layer
 | **Data Engineering** | Pandas, NumPy, FastAPI, Selenium, BeautifulSoup |
 | **Languages** | Python, C++, JavaScript, SQL |
 | **DevTools** | Docker, Git, Streamlit, Jupyter, VS Code |
-
-
 ---
 
 ## 📜 Certifications
@@ -73,18 +71,6 @@ Currently researching **LLM hallucination reduction** — designing a dual-layer
 
 ---
 
-<div align="center">
-
-**Available for remote ML/AI engineering roles. Let's build something.**
-
-[![Email Me](https://img.shields.io/badge/📩_Email_Me-sharma.s420823@gmail.com-blue?style=for-the-badge)](mailto:sharma.s420823@gmail.com)
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Sushil010.Sushil010)
-
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sushil010&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+## 🏆 Open source contribution badges
 [![An image of @sushil010's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sushil010)](https://holopin.io/@sushil010)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,6 +1,9 @@
-<div align="center">
 
+
+<div align="center">
+ 
 # Hey, I'm Sushil 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=ML+Engineer+%7C+LLM+Researcher;Computer+Vision+Specialist;Open+to+Remote+Roles)](https://git.io/typing-svg)
 
 **ML Engineer · Computer Vision · LLM Research · ETL Pipelines**
 
@@ -64,10 +67,7 @@ Currently researching **LLM hallucination reduction**  designing a dual-layer ar
 | **DevTools** | Docker, Git, Streamlit, Jupyter, VS Code |
 ---
 
-## 📜 Certifications
-
-- ✅ Supervised Machine Learning: Regression & Classification — Coursera/Stanford (Andrew Ng)
-- ✅ Advanced Learning Algorithms — Coursera/Stanford (Deep Learning Specialization)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sushil010&theme=github-compact&hide_border=true)
 
 ---
 

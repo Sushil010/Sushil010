@@ -1,12 +1,87 @@
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sushil-sharma-714924195/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharma.s420823@gmail.com) 
+# Hey, I'm Sushil 👋
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Sushil010&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushil010&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**ML Engineer · Computer Vision · LLM Research · ETL Pipelines**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sushil010.com.np-blue?style=flat-square)](https://sushil010.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sushil_Sharma-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sushil-sharma-714924195/)
+[![Email](https://img.shields.io/badge/Email-sharma.s420823@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sharma.s420823@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Status-Open_to_Remote_Roles-brightgreen?style=flat-square)](mailto:sharma.s420823@gmail.com)
+
+</div>
+
+---
+
+## About Me
+
+I'm a Computer Engineering graduate from Nepal who builds things at the intersection of **machine learning, computer vision, and data engineering**. I've shipped production-grade ETL pipelines, deployed FastAPI services, and published ML research at an international conference.
+
+Currently researching **LLM hallucination reduction** — designing a dual-layer architecture combining pre-generation filtering with post-generation verification.
+
+- 🔬 **Published:** Real-Time Drowsiness Detection — ICT-CEEL 2023
+- 🏗️ **Last role:** ETL Associate, Car Auction Data Project (Australia, Remote)
+- 🌍 **Based in:** Nepal · Open to remote work globally
+- 📫 **Reach me:** sharma.s420823@gmail.com
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Dual-Layer LLM Hallucination Reducer *(In Progress)*
+> Reducing factual errors in Large Language Models via a two-stage pipeline: pre-generation filtering + post-generation verification.
+
+`PyTorch` `Transformers` `Prompt Engineering` `LLMs`
+
+---
+
+### 😴 Real-Time Drowsiness Detection System — *Published Research*
+> Combined facial landmark detection (Dlib) with XGBoost to monitor driver alertness using Eye Aspect Ratio and Mouth Aspect Ratio. **94% detection accuracy** in real-time conditions.
+
+`Python` `OpenCV` `XGBoost` `Dlib`
+
+📄 [Published at ICT-CEEL 2023](https://github.com/Sushil010/Driver-Drowsiness-Detection-Using-Facial-Landmarks-)
+
+---
+
+### 🛡️ ML-Composed DDoS Detector
+> Random Forest classifier with **89% accuracy** detecting distributed denial-of-service attacks. Includes an interactive Three.js globe for real-time attack visualization — full-stack AI from model to interface.
+
+`Python` `Scikit-learn` `Random Forest` `Three.js`
+
+[→ View Repo](https://github.com/Sushil010/Cyber_attack_detection)
+
+---
+
+## 🛠️ Core Skills
+
+| Domain | Tools |
+|---|---|
+| **ML / AI** | PyTorch, TensorFlow, Scikit-learn, Keras, OpenCV |
+| **LLMs & GenAI** | Fine-tuning, Prompt Engineering, Transformers, LSTM |
+| **Data Engineering** | Pandas, NumPy, FastAPI, Selenium, BeautifulSoup |
+| **Languages** | Python, C++, JavaScript, SQL |
+| **DevTools** | Docker, Git, Streamlit, Jupyter, VS Code |
+
+
+---
+
+## 📜 Certifications
+
+- ✅ Supervised Machine Learning: Regression & Classification — Coursera/Stanford (Andrew Ng)
+- ✅ Advanced Learning Algorithms — Coursera/Stanford (Deep Learning Specialization)
+
+---
+
+<div align="center">
+
+**Available for remote ML/AI engineering roles. Let's build something.**
+
+[![Email Me](https://img.shields.io/badge/📩_Email_Me-sharma.s420823@gmail.com-blue?style=for-the-badge)](mailto:sharma.s420823@gmail.com)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Sushil010.Sushil010)
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sushil010&theme=radical&no-frame=false&no-bg=false&margin-w=4)
